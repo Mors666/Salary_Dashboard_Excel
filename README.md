@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](https://github.com/Mors666/Salary_Dashboard_Excel/blob/main/0_Resources/Salary_Dashboard.gif?raw=true)
+<img src="https://github.com/Mors666/Salary_Dashboard_Excel/blob/main/0_Resources/Salary_Dashboard.gif?raw=true" width="1000">
 
 ## Introduction
 
